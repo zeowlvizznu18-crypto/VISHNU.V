@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{
+    printf("Maths: 90\n");
+    printf("Science: 85\n");
+    printf("English: 88\n");
+    printf("History: 75\n");
+    printf("Computer: 95\n");
+    return 0;
+}
