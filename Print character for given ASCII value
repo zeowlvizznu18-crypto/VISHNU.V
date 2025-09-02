@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+    int ascii = 65;
+    printf("%c", ascii);
+    return 0;
+}
