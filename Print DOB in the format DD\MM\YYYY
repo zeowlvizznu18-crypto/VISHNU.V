@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() 
+{
+    printf("02/09/2004"); 
+    return 0;
+}
