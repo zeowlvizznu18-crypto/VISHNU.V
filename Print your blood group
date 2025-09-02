@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{
+    printf("Blood Group: B+");
+    return 0;
+}
